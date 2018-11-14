@@ -1,0 +1,54 @@
+
+:root {
+  --primary-text-color:#6b6b6b;
+}
+
+p {
+  color: var(--primary-text-color);
+}
+
+h2 {
+  color: var(--primary-text-color);
+}
+
+footer nav
+
+.hero {
+   background-color:rgba(249,203,203);
+  }
+
+  .team {
+   background-color: rgb(238,238,238);
+  }
+
+.team .card .p{
+  background-color: trasparent; 
+  border:0;
+}
+
+.portafolio .nav-pills {
+  margin-bottom: 3.125rem;
+}
+
+/*
+.portfolio .card:nth-child(1).card,
+.portfolio .card:nth-child(2).card,
+.portfolio .card:nth-child(3).card{
+  margin-bottom: 0;
+  border: 3px solid yellowgreen
+}
+*/
+
+
+.portfolio {  
+  color:#fff;
+  margin-bottom:0; 
+}
+
+.portfolio .card {
+  margin-bottom:3.5rem;
+}
+
+.portfolio .card-body {
+  background-color: #9a9a9a;
+}
