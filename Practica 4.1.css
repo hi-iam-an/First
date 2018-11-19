@@ -78,5 +78,11 @@ h1{
 }
 
 .portfolio .card-body {
-  background-color: #9a9a9a;
+  background-color:lightgray;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1d2124;
+  border-color: #212529;
 }
